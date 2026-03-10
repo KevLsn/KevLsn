@@ -1,6 +1,7 @@
 # Hello 👋
 
 I'm **Kévin Loussouarn**, a 3rd-year **MIAGE student at Nantes University**, currently completing a work-study program.
+
 Interested in **software development, data analysis, and building real-world technical projects**.
 
 I enjoy designing systems, analyzing data, and turning complex problems into clean and efficient solutions.
@@ -55,7 +56,3 @@ Tech used:
 ![](https://nirzak-streak-stats.vercel.app/?user=KevLsn&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevLsn&theme=dark&hide_border=false&layout=compact)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=KevLsn&icon=0&color=0)
